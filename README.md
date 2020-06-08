@@ -1,0 +1,2 @@
+# Vehicle_Monitoring_System
+Tachometer is an instrument used for measuring the rotation or revolution speed of objects, such as an engine or a shaft. The tachometer measures revolutions per minute (RPMs) of engines and is widely used in automobiles, airplanes, marine engineering field and many others. We are duplicating the function of the tachometer my using Arduino UNO and Sensors inorder to get RPM and further we will programmatically calculate distance and Speed of and rotating device 
